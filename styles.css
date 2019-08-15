@@ -1,0 +1,34 @@
+
+/* Giving our navbar some padding and a background color */
+
+/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+
+
+.nav.navbar-nav.navbar-right li a {
+  color: gray;
+}
+
+.box {
+  height: 600px;
+  padding: 400px;
+  color: rgba(73, 66, 66, 0.322);
+  background : whitesmoke;
+}
+
+
+
+.margin-top-80 {
+  margin-top: 80px;
+}
+
+.footer {
+  position:absolute;
+  bottom: 0;
+  width:100%;
+  height:60px;   /* Height of the footer */
+  background:rgb(85, 84, 84);
+  color:white;
+  font-size: 0.7em;
+  text-align: center;
+  
+}
